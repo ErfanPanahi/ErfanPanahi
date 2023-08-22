@@ -9,6 +9,12 @@
 
 🧠 It is better to mention that I really like to use artificial intelligence tools in the fields mentioned above.
 
+<p>
+  <a href="https://www.linkedin.com/in/ErfanPanahi/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>
+</p>
+
 <!--
 **ErfanPanahi/ErfanPanahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
