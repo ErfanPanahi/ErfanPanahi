@@ -11,6 +11,9 @@
 
 🧠 *It is better to mention that I really like to use [**Artificial Intelligence**](https://github.com/stars/ErfanPanahi/lists/intelligent-systems) tools in the fields mentioned above.* 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=erfanpanahi&label=Profile%20views" alt="alikera" /> </p>
+
+
 ## 💻 &nbsp;Languages and Tools
 <p align="center"><img src="https://skillicons.dev/icons?i=py,r,matlab,cpp,c,pytorch,vscode,visualstudio,latex,anaconda,arduino,ps,&perline=12"><p>
   
