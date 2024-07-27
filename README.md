@@ -18,6 +18,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ErfanPanahi/"rel="nofollow noreferrer"><img src="https://skillicons.dev/icons?i=linkedin&perline=6">
   <a href="mailto:erfanpanahhi@gmail.com" rel="nofollow noreferrer"><img src="https://skillicons.dev/icons?i=gmail&perline=6">
+  <a href="https://www.github.com/in/ErfanPanahi/" rel="nofollow noreferrer"><img src="https://skillicons.dev/icons?i=github&perline=6">
 <p>
 
 <!--
