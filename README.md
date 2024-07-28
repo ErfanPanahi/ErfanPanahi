@@ -1,6 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+dear+fiend+👋;Welcome+to+my+GitHub+account!)](https://git.io/typing-svg)\
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2502&pause=100&color=1C5483&multiline=true&width=600&height=80&lines=Erfan+Panahi;Research+Assistant+;Signal+Processing+%7C+Wireless+Communications+%7C+Artificial+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&weight=500&duration=2000&pause=3000&color=B82626&width=650&height=100&lines=Hello+my+dear+fiend+👋;Welcome+to+my+GitHub+account!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&duration=2000&pause=3000&color=0E0C5A&multiline=true&width=650&height=100&lines=Erfan+Panahi+|+Research+Assistant+;B.Sc.+in+Electrical+Engineering+at+University+of+Tehran;+Signal+Processing+%7C+Wireless+Communications+%7C+Artificial+Intelligence)](https://git.io/typing-svg)
 
 [![Static Badge](https://img.shields.io/badge/Personal-Webpage-blue)](https://erfanpanahi.github.io/)
 
