@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+my+dear+fiend+👋;Welcome+to+my+GitHub+account!)](https://git.io/typing-svg)\
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&duration=2502&pause=100&color=1C5483&multiline=true&width=600&height=80&lines=Erfan+Panahi;Research+Assistant+;Signal+Processing+%7C+Wireless+Communications+%7C+Artificial+Intelligence)](https://git.io/typing-svg)
 
-[![Static Badge](https://img.shields.io/badge/Personal-Webpage-blue)](https:\\erfanpanahi.github.io)
+[![Static Badge](https://img.shields.io/badge/Personal-Webpage-blue)](https://erfanpanahi.github.io/)
 
 ## 🎓 &nbsp;About me
 *I have a Bachelor's degree in ***Electrical Engineering*** (⚡🖥️) from the ***University of Tehran***.*
